@@ -1,3 +1,5 @@
+SMART CONTRACT
+
 Bitcoin. Cel mai recunoscut smart contract utilizat de platforma Bitcoin este cel de tip Pay To Public Key Hash (P2PKH). 
 Este un smart contract care permite cuiva, de exemplu, sa trimita altcuiva monede Bitcoin, insa pentru ca acea persoana sa le poata cheltui, 
 va avea nevoie de o semnatura ECDSA aferenta adresei monedelor respective. In general, smart contract-ul de tip P2PKH se asigura ca doar 
@@ -8,3 +10,15 @@ cu cel mai mare numar de smart contracts integrate (si puse la dispozitia altor 
 Cele mai multe smart contracts de pe platforma ofera posibilitatea de a impune conditii dupa o tranzactie, asemanator cu cele utilizate de Bitcoin. 
 De exemplu, daca un utilizator Ethereum ii trimite cuiva un anumit numar de token-uri ETH, poate impune o conditie in ceea ce priveste 
 momentul in care token-urile vor putea fi cheltuite.
+
+
+CE ESTE BLOCKCHAIN
+
+Blockchain este o rețea nouă care ne ajută să descentralizăm tranzacțiile si permite ca acestea să fie peer-to-peer fără a folosi intermediari. 
+Ca să faci comerț prin blockchain nu trebuie să cunoști persoana respectivă sau să mergi la magazin. 
+În același timp, prin blockchain este garantat că vei primi banii sau produsul dorit. Practic,
+blockchain îți garantează prin tehnologia sa că vei primi ceea ce îți dorești fără a apela la companii intermediare sau bănci. 
+
+Blockchain este format dintr-o rețea de calculatoare care au același istoric de tranzacții, iar această rețea este deținută de toată lumea. 
+În loc ca această listă de tranzacții să se afle pe serverul unei companii, ea este descentralizată și stocată pe mai multe calculatoare. 
+Pe scurt este o bază de date distribuită într-o rețea de calculatoare.
