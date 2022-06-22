@@ -1,0 +1,17 @@
+Difference between Apple Pay and Contactless payment
+  1 - Plățile fără contact pe cardul fizic de debit sau de credit sunt supuse unui prag de 50 EUR per tranzacție
+      Cardurile contactless au un mic cip încorporat în interiorul căruia se păstrează informații vitale despre cardul dvs., 
+      atunci când treceți cu cardul peste cititor (cititor RFID), cardul transmite informațiile necesare și plata este efectuată. 
+      De fapt, funcționează prin cardul având bobine în interior care preia o energie magnetică foarte slabă de la cititor, care, 
+      la rândul său, dă temporar cardului și, prin urmare, cipului puțină energie.
+      Tehnologia fără contact este încorporată în tot felul de dispozitive, de la smartphone-uri, ceasuri inteligente, carduri de credit și de debit
+      Cardurile fără contact par foarte nesigure, dacă cineva ar avea cardul, ar putea merge și să-l folosească oriunde își dorește, dar, 
+      deși acest lucru este adevărat, există unele măsuri de securitate. Pentru început, exista o limita de plată pentru o tranziție 
+      fără contact (la mine este de ~ 150 lei). Există o limită superioară pentru cât se poate cheltui dintr-o singură atingere (la mine este de ~ 800 lei). 
+      De asemenea, există o limită a numărului de tranzacții contactless pe care le puteți face înainte ca PIN-ul să fie introdus ( cam de 3 ori).
+      
+  2 - Apple Pay va permite tranzacții de peste 50 EUR*, cu condiția să existe soldul disponibil sau limita de credit.
+      De asemenea, trebuie să autorizați fiecare tranzacție cu Face ID, Touch ID sau codul dvs. de acces.
+      Apple Pay este similar cu contactless – iPhone-urile și dispozitivele Apple Watch folosesc NFC pentru a comunica cu cititorul de plăți. 
+      De asemenea, pentru a putea plăti pentru ceva peste limita autorizata, magazinul trebuie să accepte Apple Pay, ceea ce înseamnă practic 
+      că cititorul de carduri și gateway-ul de plată (adică ce companie se ocupă de tranzacții) are un acord cu Apple. 
