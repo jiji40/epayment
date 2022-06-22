@@ -21,16 +21,13 @@ Tranzacții unice, plăți recurente și plăți cu card-on-file. Pentru a acces
 serviciile unuia sau mai multor Furnizori de servicii Token.
   
   Advantages / Disadvantages for Visa tokenization
-  Deși în epocile noastre moderne ne bazăm foarte des pe procesele de tokenizare atunci când ne confruntăm cu tranzacții comerciale, acest tip de tehnologie 
-poate fi insuficient din punct de vedere al câteva aspecte și funcționează bine într-o oarecare măsură. Aspectul important care face ca tokenizarea 
-să fie un instrument util este capacitatea sa de a păstra datele valoroase ale deținătorului cardului atunci când este manipulată de comercianți și furnizori de servicii.
-Acest lucru reprezintă un avantaj în cazurile de atacuri cibernetice care devin din ce în ce mai frecvente și mai periculoase pentru societatea noastră. 
-Având un simbol care poate fi folosit doar la un moment dat de către persoana îndreptățită, riscul de a fi jefuit și uzurpat de altcineva din motive nedrepte 
-este diminuat. În cazurile în care date mai semnificative, cum ar fi numerele de securitate socială, numerele de permis de conducere, dosarele electronice de sănătate, 
+  Aspectul important care face ca tokenizarea să fie un instrument util este capacitatea sa de a păstra datele valoroase ale deținătorului cardului atunci când este 
+manipulată de comercianți și furnizori de servicii. Acest lucru reprezintă un avantaj în cazurile de atacuri cibernetice. 
+Având un simbol care poate fi folosit doar la un moment dat de către persoana îndreptățită, riscul de a fi jefuit este diminuat. 
+În cazurile în care date mai semnificative, cum ar fi numerele de securitate socială, numerele de permis de conducere, dosarele electronice de sănătate, 
 rețetele sau chiar adresele, avem norocul să folosim tokenizarea, deoarece atunci când comparăm această abordare cu criptarea de înaltă calitate, 
 aceasta din urmă poate fi ruptă. Oricine are suficiente cunoștințe și resurse poate obține în continuare cheile de criptare. 
 Deoarece tokenizarea nu se bazează pe chei de criptare, oferă un nivel mai ridicat de securitate atunci când este gestionată în mod corespunzător.
-
 
     La fel ca majoritatea măsurilor de securitate, procesul de tokenizare adaugă multă complexitate infrastructurii IT. Pașii pentru afacerea de comerț electronic 
 devin puțin mai complicati datorită acestui proces de tokenizare, iar informațiile de facturare ale clienților trebuie să treacă printr-un proces de detokenizare 
