@@ -1,0 +1,11 @@
+Java Smart Cards Communication Model
+1.	Message Passing Model
+    –APDU Commands
+    –APDU Responses
+2.	JCRMI – Java Card Remote Method Invocation
+3.	SATSA – Security and Trust Services API. SATSA is defined in JSR 177
+
+Design the APDUs
+PIN verification
+INTERROGATION to find which amount of money the card contains
+APDU command for debit – e.g. to deposit money on the card – usually executed by a bank
