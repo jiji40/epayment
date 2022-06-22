@@ -1,3 +1,4 @@
+Smart Card Basics
 1 - Cardurile cu cip de memorie, conțin date diferite, dar nu pot calcula datele stocate, 
      deoarece cardul nu are microprocesor. Acestea depind complet de aplicația gazdă.
     
@@ -6,3 +7,16 @@
     utilizează pentru memoria de doar citire și pentru memoria cu acces aleatoriu - RAM. Aceste caracteristici oferă unui card aproape puterea 
     unui computer desktop. Acest tip de carduri sunt utilizate în diferite sisteme informatice precum carduri de credit bancare, carduri pentru 
     controlul accesului în instituții, SIM-uri – Modulul de identificare securizat – pentru telefoane mobile și carduri pentru accesarea rețelelor TV digitale.
+
+
+Smart Card Basics – Memory System
+1 - ROM – Read Only Memory – folosit pentru stocarea programelor fixe ale cardului, inclusiv OS Kernel. 
+    Nu este nevoie de energie electrică pentru menținerea datelor și nu poate fi scrisă după fabricare. 
+    Procesul de scriere a imaginii binare (inclusiv date și programe) în ROM se numește mascare.
+2 - EEPROM – Memorie de doar citire programabilă și ștergabilă electrică – poate păstra datele atunci când sursa de alimentare este oprită. 
+     Poate fi modificat dupa fabricatie. Pe scurt, poate fi considerat „hard-disk” al cardului. 
+3 - RAM – Random Access Memory – folosit ca spațiu temporar pentru modificarea și stocarea modului de date. 
+     RAM este memorie nepersistentă. Conținutul nu este păstrat atunci când alimentarea este eliminată din celulele de memorie.
+     Număr nelimitat de acces.RAM – Random Access Memory – folosit ca spațiu temporar pentru modificarea și stocarea modului de date. 
+     RAM este memorie nepersistentă. Conținutul nu este păstrat atunci când alimentarea este eliminată din celulele de memorie. Număr nelimitat de acces.
+4 - Flash Memory – used instead of EEPROM
