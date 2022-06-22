@@ -1,0 +1,8 @@
+1 - Cardurile cu cip de memorie, conțin date diferite, dar nu pot calcula datele stocate, 
+     deoarece cardul nu are microprocesor. Acestea depind complet de aplicația gazdă.
+    
+2 - Cardurile cu cip de microprocesor, carduri cu cip pe termen scurt, conțin un microprocesor care este utilizat pentru calcule. 
+    Pe lângă acest microprocesor cu registru de 8, 16 sau 32 de biți, cardul ar putea conține unul sau mai multe cipuri de memorie care se 
+    utilizează pentru memoria de doar citire și pentru memoria cu acces aleatoriu - RAM. Aceste caracteristici oferă unui card aproape puterea 
+    unui computer desktop. Acest tip de carduri sunt utilizate în diferite sisteme informatice precum carduri de credit bancare, carduri pentru 
+    controlul accesului în instituții, SIM-uri – Modulul de identificare securizat – pentru telefoane mobile și carduri pentru accesarea rețelelor TV digitale.
