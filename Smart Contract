@@ -1,0 +1,10 @@
+Bitcoin. Cel mai recunoscut smart contract utilizat de platforma Bitcoin este cel de tip Pay To Public Key Hash (P2PKH). 
+Este un smart contract care permite cuiva, de exemplu, sa trimita altcuiva monede Bitcoin, insa pentru ca acea persoana sa le poata cheltui, 
+va avea nevoie de o semnatura ECDSA aferenta adresei monedelor respective. In general, smart contract-ul de tip P2PKH se asigura ca doar 
+detinatorul real al unor criptomonede le poate cheltui, sau o persoana de incredere caruia i le-a incredintat un detinator.
+
+Ethereum. Ethereum este cea mai reprezentativa platforma blockchain in ceea ce priveste smart contracts, fiind platforma 
+cu cel mai mare numar de smart contracts integrate (si puse la dispozitia altor creatori sub forma de cod open-source). 
+Cele mai multe smart contracts de pe platforma ofera posibilitatea de a impune conditii dupa o tranzactie, asemanator cu cele utilizate de Bitcoin. 
+De exemplu, daca un utilizator Ethereum ii trimite cuiva un anumit numar de token-uri ETH, poate impune o conditie in ceea ce priveste 
+momentul in care token-urile vor putea fi cheltuite.
