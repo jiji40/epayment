@@ -1,3 +1,16 @@
+In the context of smart cards, an application protocol data unit (APDU) 
+is the communication unit between a smart card reader and a smart card. 
+An Application Protocol Data Unit (APDU) is simply a byte array that contains information following the ISO 7816 standard.
+
+APDU message command-response pair
+There are two categories of APDUs: command APDUs and response APDUs. 
+A command APDU is sent by the reader to the card – it contains a mandatory 4-byte header (CLA, INS, P1, P2)[2] and from 0 to 65 535 bytes of data. 
+A response APDU is sent by the card to the reader – it contains from 0 to 65 536 bytes of data, and 2 mandatory status bytes (SW1, SW2).
+
+
+
+
+
 Java Smart Cards Communication Model
 1.	Message Passing Model
     –APDU Commands
